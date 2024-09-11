@@ -382,7 +382,7 @@ $conn->close();
             <a href="Uploads.php">Upload</a>
             <a href="StudentProfile.php">Update Profile</a>
             <a href="#">Settings</a>
-            <a href="http://localhost/StudentAttends/splash.php">Logout</a>
+            <a href="http://localhost/StudentAttends/index.php">Logout</a>
         </div>
         <div class="content">
         <div class="flip-container">

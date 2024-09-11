@@ -421,7 +421,7 @@ $conn->close();
             <a href="http://localhost/StudentAttends/Lecturer/Report.php">Reports</a>
             <a href="AddUser.php">Add User</a>
             <a href="AdminProfile.php">Update Profile</a>
-            <a href="http://localhost/StudentAttends/splash.php">Logout</a>
+            <a href="http://localhost/StudentAttends/index.php">Logout</a>
         </div>
         <div class="content">
     <div class="dashboard">
